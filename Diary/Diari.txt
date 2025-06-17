@@ -1,0 +1,136 @@
+NCAA Football:
+Boston College Eagles - Boston College
+California Golden Bears - University of California, Berkeley
+Clemson Tigers - Clemson University
+Duke Blue Devils - Duke University
+Florida State Seminoles - Florida State University
+Georgia Tech Yellow Jackets - Georgia Institute of Technology
+Louisville Cardinals - University of Louisville
+Miami Hurricanes - University of Miami
+NC State Wolfpack - North Carolina State University
+North Carolina Tar Heels - University of North Carolina at Chapel Hill
+Pittsburgh Panthers - University of Pittsburgh
+SMU Mustangs - Southern Methodist University
+Stanford Cardinals - Stanford University
+Syracuse Orange - Syracuse University
+Virginia Cavaliers - University of Virginia
+Virginia Tech Hokies - Virginia Polytechnic Institute and State University
+Wake Forest Demon Deacons - Wake Forest University
+Army Black Knights - US Military Academy
+Charlotte 49ers - University of North Carolina at Charlotte
+East Carolina Pirates - East Carolina University
+Florida Atlantic Owls - Florida Atlantic University
+Memphis Tigers - University of Memphis
+Navy Midshipmen - US Naval Academy
+North Texas Mean Green - University of North Texas
+Rice Owls - Rice University
+South Florida Bulls - University of South Florida
+Temple Owls - Temple University
+Tulane Green Wave - Tulane University
+Tulsa Golden Hurricane - University of Tulsa
+UAB Blazers - University of Alabama at Birmingham
+UTSA Roadrunners - University of Texas at San Antonio
+Arizona State Sun Devils - Arizona State University
+Arizona Wildcats - University of Arizona
+BYU Cougars - Brigham Young University
+Baylor Bears - Baylor University 
+Cincinnati Bearcats - University of Cincinnati
+Colorado Buffaloes - University of Colorado Boulder
+Houston Cougars - University of Houston
+Iowa State Cyclones - Iowa State University
+Kansas Jayhawks - University of Kansas
+Kansas State Wildcats - Kansas State University
+Oklahoma State Cowboys - Oklahoma State University
+TCU Horned Frogs - Texas Christian University
+Texas Tech Red Raiders - Texas Tech University
+UCF Knights - University of Central Florida
+Utah Utes - University of Utah
+West Virginia Mountaineers - West Virginia University
+Illinois Fighting Illini - University of Illinois Urbana-Champaign
+Indiana Hossiers - Indiana University Bloomington
+Iowa Hawkeyes -University of Iowa
+Maryland Terrapins - University of Maryland, College Park
+Michigan State Spartan - Michigan State University
+Minnesota Golden Gophers - University of Minnesota
+Nebraska Cornhuskers - University of Nebraska-Lincoln
+Northwestern Wildcats - Northwestern University
+Ohio Buckeyes - Ohio State University
+Oregon Ducks - University of Oregen
+Penn State Nittany Lions - Pennsylvania State University
+Purdue Boilermakers - Purdue University
+Rutgers Scarlet Knight - Rutgers University-New Brunswick
+UCLA Bruins - University of California, Los Angeles
+USC Trojans - University of Southern California
+Washington Huskies - University of Wshington
+Wisconsin Badgers - University of Wisconsin-Madison
+Delaware Blue Hens - 
+Florida International Panthers
+Jacksonville State Gamecocks
+Kennesaw State Owls
+Liberty Flames
+Louisiana Tech Bulldogs
+Middle Tennesee Blue Raiders
+Missouri State Bears
+New Mexico State Aggies
+Sam Houston Bearkats
+UTEP Miners
+Western Kentucky Hilltoppers
+Notre Dame Fighting Irish
+UCOnn Huskies
+Akron Zips
+Ball State Cardinals
+Bowling Green Falcons
+Buffalo Bulls
+Central Michigan Chippewas
+Eastern Michigan Eagles
+Kent State Golden Fishers
+Massachussets Minutemen
+Miami (OH) RedHawks
+Northern Illinois Huskies
+Ohio Bobcats
+Toledo Rockets
+Western Michigan Broncos
+Air Force Falcons
+Boise State Broncos
+Colorado State Rams
+Fresho State Bulldogs
+Hawai'i Rainbow Warriors
+NevadaWolf Pack
+New Mexico Lobos
+San Diego State Aztecs
+San Jose State Spartan
+UNLV Rebels
+Utah State Aggies
+Wyoming Cowboys
+Oregon State Beavers
+Washington State Cougars
+Alabama Crimson Tide
+Arkansas Razorbacks
+Auburn Tigers
+Florida Gators
+Georgia Bulldogs
+Kentucky Wildcats
+LSU Tigers
+Mississippi State Bulldogs
+Missouri Tigers
+Oklahoma Sooners - University of Oklahoma
+Ole Miss Rebels
+South Carolina Gamecocks
+Temnessee Volunteers
+Texas A&M Aggies
+Texas Longhorns
+Vanderbilt Commodores
+App State Mountaineers
+Arkansas State Red Wolves
+Coastal Carolina Chanticleers
+Georgia Southern Eagles
+Georgia State Panthers
+James Madison Dukes
+Louisiana Ragin' Cajuns
+Marshall Thundering Herd
+Old Dominion Monarchs
+South Alabama Jaguars
+Southern Miss Golden Eagles
+Texas State Bobcats
+Troy Trojans
+UL Monroe Warhawks
